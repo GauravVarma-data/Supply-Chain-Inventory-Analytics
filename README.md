@@ -239,12 +239,3 @@ The Power BI specification contains a three-page dashboard design:
 
 ---
 
-## 👨‍💻 Portfolio Context
-
-This project is designed as a practical business analytics case study rather than a purely technical exercise. It demonstrates the end-to-end workflow of taking operational data, analyzing business performance, creating KPIs, identifying improvement areas, and presenting findings through dashboards.
-
----
-
-## ⚠️ Dataset Disclaimer
-
-The included dataset is synthetically generated for educational and portfolio purposes using a fixed random seed. It does not represent a real company, supplier, warehouse, employee, customer, or transaction.
